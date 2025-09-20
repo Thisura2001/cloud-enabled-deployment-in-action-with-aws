@@ -1,5 +1,10 @@
 # Cloud Enabled Deployment In Action with GCP
 
+
+**Name:** Thisura Liyanage  
+**STID:** 2301671024  
+**Email:** thisuravimukthi123@gmail.com  
+
 This repository contains four projects:
 
 * **course-service** (Spring Boot + MySQL)
@@ -71,10 +76,6 @@ This repository contains four projects:
 ## Deployment
 
 This project demonstrates **cloud-enabled deployment with Google Cloud Platform (GCP)**. Services can be deployed on **Cloud Run, GKE, or Compute Engine**, with MySQL on **Cloud SQL**, MongoDB on **Atlas/Compute**, and media storage on **Google Cloud Storage**.
-
-Name:Thisura Liyanage
-STID = 2301671024
-email = thisuravimukthi123@gmail.com
 
 ---
 
